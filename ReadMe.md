@@ -1,0 +1,3 @@
+- check OptionalDouble and how to convert into Double
+- learn generics
+- learn streams more explicitly
